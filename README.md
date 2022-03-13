@@ -1,2 +1,2 @@
-# Rocketseat-Maratona-01
+# Rocketseat-Maratona-Discover-01
 Uma maratona rocketseat
